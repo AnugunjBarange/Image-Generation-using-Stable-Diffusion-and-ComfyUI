@@ -1,3 +1,8 @@
 # Download and Install Dependencies
 we need to Download ComfyUI from the official source.
 link:-(https://github.com/comfyanonymous/ComfyUI)
+Scroll to Installing, then click on 'direct link to download'
+
+Install Stable Diffusion models from Hugging face
+link:-(https://huggingface.co/)
+

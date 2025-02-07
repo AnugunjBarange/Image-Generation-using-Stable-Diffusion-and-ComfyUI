@@ -3,6 +3,17 @@ we need to Download ComfyUI from the official source.
 link:-(https://github.com/comfyanonymous/ComfyUI)
 Scroll to Installing, then click on 'direct link to download'
 
-Install Stable Diffusion models from Hugging face
+# Install Stable Diffusion models from Hugging face
 link:-(https://huggingface.co/)
+Download the v1-5-pruned-emaonly-fp16 model from HuggingFace
+
+# Model Setup
+place the above files, then place them in below location
+ComfyUI_Windows_Portabl > ComfyUI > models > checkpoints
+
+# How to Implement
+Open the folder `ComfyUI_windows_portable\ComfyUI`
+Then click on `run_cpu` or `run_nvdia_gpu` to execute file to enhance performance and speed up the image generation.
+
+This will open the interface where we can generate a high-quality image by giving a prompt.
 
